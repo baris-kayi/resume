@@ -63,7 +63,6 @@ footer {
     font-size: 0.9rem;
 }
 
-
 .profil-foto {
     width: 150px;
     height: 150px;
@@ -75,36 +74,36 @@ footer {
 }
 
 .linkedin-section {
-  text-align: center;
-  margin-top: 30px;
+    text-align: center;
+    margin-top: 30px;
 }
 
 .linkedin-link {
-  display: inline-flex;
-  align-items: center;
-  gap: 10px;
-  text-decoration: none;
-  color: #ffffff;
-  font-size: 20px;
-  font-weight: bold;
+    display: inline-flex;
+    align-items: center;
+    gap: 10px;
+    text-decoration: none;
+    color: #ffffff;
+    font-size: 20px;
+    font-weight: bold;
 }
 
 .linkedin-link:hover {
-  text-decoration: underline;
-  color: #ffffff;
+    text-decoration: underline;
+    color: #ffffff;
 }
 
 .linkedin-icon {
-  width: 24px;
-  height: 24px;
+    width: 24px;
+    height: 24px;
 }
 
 .contact-section {
     text-align: center;
     margin-top: 20px;
-  }
-  
-  .email-link {
+}
+
+.email-link {
     display: inline-flex;
     align-items: center;
     gap: 10px;
@@ -112,37 +111,35 @@ footer {
     color: white;
     font-size: 18px;
     font-weight: bold;
-  }
-  
-  .email-link:hover {
+}
+
+.email-link:hover {
     text-decoration: underline;
     color: #cccccc;
-  }
-  
-  .email-icon {
+}
+
+.email-icon {
     width: 24px;
     height: 24px;
-  }
+}
 
-  table {
+table {
     width: 100%;
     border-collapse: collapse;
     margin-top: 15px;
-  }
-  
-  th, td {
+}
+
+th, td {
     border: 1px solid #ccc;
     padding: 10px;
     text-align: left;
-  }
-  
-  th {
+}
+
+th {
     background-color: #333;
     color: white;
-  }
-  
-  tr:nth-child(even) {
+}
+
+tr:nth-child(even) {
     background-color: #f2f2f2;
-  }
-  
-  
+}
